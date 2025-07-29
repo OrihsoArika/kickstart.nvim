@@ -33,5 +33,8 @@ o.wrap = false
 o.mouse = ''
 o.signcolumn = 'yes'
 o.clipboard = 'unnamedplus'
+o.background = 'light'
 
-vim.cmd [[colorscheme kanagawa]]
+-- vim.g.sonokai_style='atlantis'
+
+vim.cmd [[colorscheme rose-pine]]

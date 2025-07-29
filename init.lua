@@ -1011,6 +1011,7 @@ require('lazy').setup({
 require 'custom.mappings'
 require 'custom.options'
 require 'custom.plugins.configs.blink-cmp'
+require 'custom.plugins.configs.indent-blankline'
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
