@@ -29,12 +29,11 @@ o.cul = true
 o.culopt = 'both'
 o.wrap = false
 
--- o.background='dark'
 o.mouse = ''
 o.signcolumn = 'yes'
 o.clipboard = 'unnamedplus'
-o.background = 'light'
+-- o.background = 'light'
 
 -- vim.g.sonokai_style='atlantis'
 
-vim.cmd [[colorscheme rose-pine]]
+vim.cmd [[colorscheme rose-pine-moon]]
